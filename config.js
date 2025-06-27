@@ -78,8 +78,6 @@ READ_CMD: process.env.READ_CMD || "false",
 // mark commands as read 
 DEV: process.env.DEV || "50934960331",
 // your whatsapp number        
-ANTI_VV: process.env.ANTI_VV || "true",
-// anti view once 
 AUTO_RECORDING: process.env.AUTO_RECORDING || "false"
 // auto recording status 
 };
